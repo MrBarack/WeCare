@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/firstArticle/firstArticle",
+    "pages/secondArticle/secondArticle",
+    "pages/activity/activity",
+    "pages/my/myinfo",
+    "pages/logs/logs",
+    "pages/activity/components/openingProjects/openingProjects",
+    "pages/activity/components/raiseEvent/raiseEvent",
+    "pages/activity/components/communicationGroup/communicationGroup",
+    "pages/activity/components/volunteerList/volunteerList",
+    "pages/activity/components/recordAndReward/recordAndReward"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeCare",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "backgroundColor": "#FFE7D1",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "News",
+        "iconPath": "images/news.png",
+        "selectedIconPath": "images/news.png"
+      },
+      {
+        "pagePath": "pages/activity/activity",
+        "text": "Activities",
+        "iconPath": "images/heart.png",
+        "selectedIconPath": "images/heart.png"
+      },
+      {
+        "pagePath": "pages/my/myinfo",
+        "text": "Me",
+        "iconPath": "images/me.png",
+        "selectedIconPath": "images/me.png"
+      }
+    ]
+  },
+  "color": "#FFEEEE",
+  "selectedColor": "#FF0000",
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

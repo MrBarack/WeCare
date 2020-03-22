@@ -1,0 +1,4 @@
+/* pages/activity/components/openingEvent/openingEvent.wxss */
+.weui-search-bar {
+  background-color: #FFE7D1;
+}

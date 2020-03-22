@@ -1,0 +1,29 @@
+<view class="weui-panel weui-panel_access">
+  <view class="weui-panel__hd">Latest News Of WeCare</view>
+    <view id="activity1" class="weui-media-box weui-media-box_text" bindtap="onFirstItemClick">
+      <title-card 
+      img='../../images/love1.jpg' 
+      title='Voluntary Support Education' 
+      context="Successfully Hosting the Voluntary Activity!"
+      isShowBtns='{{true}}'
+      isLiked='{{true}}'
+      likeNumber='{{30}}'
+      ></title-card>
+    </view>
+    <view class="weui-media-box weui-media-box_text" bindtap="onSecondItemClick">
+      <title-card  
+      img='../../images/love5.png' 
+      title='Raise Funds' 
+      context="Successfully Hosting the Second Activity!"
+      isShowBtns='{{true}}'
+      isLiked='{{false}}'
+      likeNumber='{{56}}'
+      ></title-card  >
+    </view>
+    <view class="weui-panel__ft">
+      <a class="weui-cell weui-cell_active weui-cell_access weui-cell_link">
+        <view class="weui-cell__bd">Check More</view>
+        <text class="weui-cell__ft"></text>
+      </a>
+    </view>
+</view>

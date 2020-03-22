@@ -1,0 +1,25 @@
+<view class="page__bd">
+  <view class="weui-article">
+    <view class="weui-article__h1">Voluntary Support Education</view>
+    <view class="weui-article__h3">01 March 2020</view>
+    <view class="weui-article__section">
+      <view class="weui-article__p">
+        Coco Hu, a volunteer teacher in Guizhou who was honored as one of the “People Who Moved China”, inspired me to become a volunteer teacher in a rural area.
+      </view>
+      <view class="weui-article__p">
+        <image class="weui-article__img" src="../../images/love3.jpg" mode="aspectFit" style="height: 180px" />
+      </view>
+      <view class="weui-article__section">
+        <view class="weui-article__h3">02 March 2020</view>
+        <view class="weui-article__p">
+          Beautiful China volunteer education project (" beautiful China volunteer education project ") is an educational non-profit project under Beijing lide foundation for future education. China children and youth foundation is the long-term public fundraising
+        partner of the project.Since its establishment in 2008, the program has sent more than 2,200 teachers to areas with limited educational resources. They have conducted two-year volunteer teaching in nearly 300 rural classrooms, giving more than
+        2,057,100 lectures, directly affecting more than 542,000 students
+        </view>
+      </view>
+      <view class="weui-article__p">
+        <image class="weui-article__img" src="../../images/love4.jpg" mode="aspectFit" style="height: 180px" />
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,14 @@
+<view class="page__bd">
+  <view class="weui-article">
+    <view class="weui-article__h1">Raise Funds</view>
+    <view class="weui-article__h3">22 March 2020</view>
+    <view class="weui-article__section">
+      <view class="weui-article__p">
+The unexpected disaster and high treatment cost of this ordinary migrant worker family was at a loss. On May 22, huang shengjun, brother of huang shenghua, launched a 500,000 yuan love crowdfunding on the "shuiluchou" serious disease fundraising platform. Many media spared no effort to help spread, love like a snowflake, less than 24 hours, "drip" received 50,104 yuan charity money.
+      </view>
+      <view class="weui-article__p">
+        <image class="weui-article__img" src="../../images/love6.jpg" mode="aspectFit" style="height: 180px" />
+      </view>
+    </view>
+  </view>
+</view>

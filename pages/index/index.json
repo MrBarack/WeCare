@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "card": "../../dist/card/card",
+    "title-card": "../../dist/title-card/title-card"
+  }
+}
